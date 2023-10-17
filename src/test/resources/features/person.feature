@@ -9,3 +9,4 @@ Feature: Person management
 #    Given the system has been initialized
 #    When I add a new person named "John" with age 30
 #    Then the system should have a person named "John" with age 30
+#    Then the system should have a person named "John" with age 30
